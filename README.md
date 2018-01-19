@@ -1,6 +1,12 @@
 # ProjectDataToReality
 
-A demo project using ARKit to project data into our real world. The project also involves CoreML and SceneKit.
+A demo project using ARKit to project data into our real world. The project also involves CoreML and SceneKit. 
+
+Refer to [ARKit Usage](http://hongchaozhang.github.io/blog/2017/12/28/arkit-usage/) for a better understanding of ARKit.
+
+## Requirement
+
+ARKit needs iOS 11 and above, and CPU A9 and above. 
 
 ## Screenshots of the Demo
 
@@ -49,3 +55,4 @@ As this is a rough demo, it need some enhancements:
 
 1. [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit)
 1. [ARCharts](https://github.com/Boris-Em/ARCharts)
+
